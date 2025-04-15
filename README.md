@@ -3,16 +3,22 @@ Dentro do arquivo "Oscar2025.json", contém os dados dos indicados ao OSCAR do a
 
 A seguir, há um questionários para trabalhar e treinar os comandos CRUD.
 
+--- 
 
 * Atualize os registros da tabela com os dados do Oscar 2025
-  - Registros Atualizados!
---------------------------------------------------------
- * Qual o total de registros na tabela indicados?
+   - Registros Atualizados!
+
+---
+
+* Qual o **total** de registros na tabela indicados?
   - 11009 Registros.
---------------------------------------------------------
- * Qual o número de indicações por categoria agrupadas por categoria?
-  - 20 Indicações por categoria agrupadas
-      
+
+---
+
+* Qual o número de indicações por categoria agrupadas por categoria?
+ - 20 Indicações por categoria agrupadas
+Code:
+```js
 db.indicados_ao_oscar.aggregate([
   {
     $group: {
@@ -29,13 +35,6 @@ db.indicados_ao_oscar.aggregate([
 ---
 
 * Quantas vezes Natalie Portman foi indicada ao Oscar?
-
-R: 3 vezes
-
-Q:
-```js
- db.oscar.find({"Nome": "Natalie Portman"}).countDocuments()
-```
 
 ---
 
@@ -104,5 +103,3 @@ Q:
 ---
 
 * Denzel Washington e Jamie Foxx já concorreram ao Oscar no mesmo ano?
---------------------------------------------------------
-
