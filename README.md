@@ -6,7 +6,8 @@ A seguir, há um questionários para trabalhar e treinar os comandos CRUD.
 --- 
 
 * Atualize os registros da tabela com os dados do Oscar 2025
-   - Registros Atualizados!
+  
+  R: Registros Atualizados!
 
 ---
 
