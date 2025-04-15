@@ -11,12 +11,13 @@ A seguir, há um questionários para trabalhar e treinar os comandos CRUD.
 ---
 
 * Qual o **total** de registros na tabela indicados?
-  - 11009 Registros.
+  R: 11009 Registros.
 
 ---
 
 * Qual o número de indicações por categoria agrupadas por categoria?
- - 20 Indicações por categoria agrupadas
+ R: 20 Indicações por categoria agrupadas
+
 Code:
 ```js
 db.indicados_ao_oscar.aggregate([
