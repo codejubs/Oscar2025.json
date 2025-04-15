@@ -1,4 +1,4 @@
 # Premiação do Oscar
-Contém a base de indicados ao Oscar em formato MongoDB para treinar comandos CRUD.
+Dentro do arquivo "Oscar2025.json", contém a base de indicados ao Oscar em formato MongoDB para treinar comandos CRUD.
 
-Abaixo, algumas atividades para trabalharmos os comandos.
+A seguir, há algumas atividades para trabalhar os comandos.
