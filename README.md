@@ -11,12 +11,11 @@ A seguir, há um questionários para trabalhar e treinar os comandos CRUD.
   - 11009 Registros.
 --------------------------------------------------------
  * Qual o número de indicações por categoria agrupadas por categoria?
-  - 20 Indicações por categoria agrupadas.
-    code:
-
+  - 20 Indicações por categoria agrupadas
+*code:    
 db.registros.aggregate([
   { $group: { _id: "$categoria", totalIndicacoes: { $sum: 1 } } },
   { $sort: { totalIndicacoes: -1 } }
-])
+]);
 --------------------------------------------------------
 
