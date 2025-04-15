@@ -11,7 +11,8 @@ A seguir, há um questionários para trabalhar e treinar os comandos CRUD.
 ---
 
 * Qual o **total** de registros na tabela indicados?
-  R: 11009 Registros.
+
+   R: 11009 Registros.
 
 ---
 
