@@ -18,6 +18,7 @@ A seguir, há um questionários para trabalhar e treinar os comandos CRUD.
 ---
 
 * Qual o número de indicações por categoria agrupadas por categoria?
+  
  R: 20 Indicações por categoria agrupadas
 
 Code:
@@ -38,6 +39,7 @@ db.indicados_ao_oscar.aggregate([
 ---
 
 * Quantas vezes Natalie Portman foi indicada ao Oscar?
+  
   R: 3
 
 Code:
@@ -47,6 +49,7 @@ db.oscar.countDocuments({"nome_do_indicado": "Natalie Portman"})
 ---
 
 * Quantos Oscars Natalie Portman ganhou?
+  
   R: 1
 
 Code:
@@ -60,6 +63,7 @@ vencedor: "true"
 ---
 
 * Quantas vezes Viola Davis foi indicada ao Oscar?
+  
   R: 4
 
 Code:
@@ -69,6 +73,7 @@ db.oscar.countDocuments({"nome_do_indicado": "Viola Davis"})
 ---
 
 * Quantos Oscars Viola Davis ganhou?
+  
   R: 1
 
 Code:
@@ -81,6 +86,7 @@ vencedor: "true"
 ---
 
 * Amy Adams já ganhou algum Oscar?
+  
   R: Não
 
 Code: 
@@ -94,6 +100,7 @@ vencedor: "true"
 ---
 
 * Quais os atores/atrizes que foram indicados mais de uma vez?
+  
   R: 1446
 
 Code:
@@ -108,6 +115,7 @@ Code:
 ---
 
 * A série de filmes Toy Story ganhou Oscars em quais anos?
+  
   R: 2 vezes em 2011 e 1 em 2020
 
 Code:
@@ -121,6 +129,7 @@ vencedor: "true"
 ---
 
 * A partir de que ano que a categoria "Actress" deixa de existir?
+  
   R: Apartir do ano de 1928
 
 Code:
