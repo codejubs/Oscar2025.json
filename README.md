@@ -38,34 +38,100 @@ db.indicados_ao_oscar.aggregate([
 ---
 
 * Quantas vezes Natalie Portman foi indicada ao Oscar?
+  R: 3
 
+Code:
+```js
+db.oscar.countDocuments({"nome_do_indicado": "Natalie Portman"})
+````
 ---
 
 * Quantos Oscars Natalie Portman ganhou?
+  R: 1
+
+Code:
+```js
+db.oscar.countDocuments({
+nome_do_indicado: "Natalie Portman",
+vencedor: "true"
+})
+```
 
 ---
 
 * Quantas vezes Viola Davis foi indicada ao Oscar?
+  R: 4
 
+Code:
+```js
+db.oscar.countDocuments({"nome_do_indicado": "Viola Davis"})
+```
 ---
 
 * Quantos Oscars Viola Davis ganhou?
+  R: 1
 
+Code:
+```js
+db.oscar.countDocuments({
+nome_do_indicado: "Viola Davis",
+vencedor: "true"
+})
+```
 ---
 
 * Amy Adams já ganhou algum Oscar?
+  R: Não
+
+Code: 
+```js
+db.oscar.countDocuments({
+nome_do_indicado: "Amy Adams",
+vencedor: "true"
+})
+```
 
 ---
 
 * Quais os atores/atrizes que foram indicados mais de uma vez?
+  R: 1446
+
+Code:
+```js
+ db.oscar.aggregate([
+  { $group: { _id: "$nome_do_indicado", total_indicacoes: { $sum: 1 } } },
+  { $match: { total_indicacoes: { $gt: 1 } } },
+  { $count: "quantidade_atores_mais_uma_indicacao" }
+])
+```
 
 ---
 
 * A série de filmes Toy Story ganhou Oscars em quais anos?
+  R: 2 vezes em 2011 e 1 em 2020
+
+Code:
+```js
+ db.registros.find({
+nome_do_filme: /Toy Story/,
+vencedor: "true"
+})
+```
 
 ---
 
-* A partir de que ano que a categoria "Actress" deixa de existir? 
+* A partir de que ano que a categoria "Actress" deixa de existir?
+  R: Apartir do ano de 1928
+
+Code:
+```js
+ db.registros.find({
+categoria: "ACTRESS" ,
+vencedor: "true"
+}).sort({
+ano_cerimonia: 1
+}).limit(1)
+```
 
 ---
 
