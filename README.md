@@ -120,7 +120,7 @@ Code:
 
 Code:
 ```js
- db.registros.find({
+ db.oscar.find({
 nome_do_filme: /Toy Story/,
 vencedor: "true"
 })
@@ -134,7 +134,7 @@ vencedor: "true"
 
 Code:
 ```js
- db.registros.find({
+ db.oscar.find({
 categoria: "ACTRESS" ,
 vencedor: "true"
 }).sort({
@@ -145,18 +145,67 @@ ano_cerimonia: 1
 ---
 
 * Quem ganhou o primeiro Oscar para Melhor Atriz? Em que ano?
+  R: Janet Gaynor no ano de 1928!
+
+Code:
+```js
+db.oscar.find({
+categoria: "ACTRESS" ,
+vencedor: "true"
+}).sort({
+ano_cerimonia: 1
+})
+```
 
 ---
 
 * Na campo "Vencedor", altere todos os valores com "true" para 1 e todos os valores "false" para 0.
+  R: Alteração realizada!
+
+Code:
+```js
+db.oscar.updateMany({
+   vencedor: "false"
+}, {
+    $set: {
+       vencedor: "0"
+    }
+});
+
+db.oscar.updateMany({
+   vencedor: "true"
+}, {
+    $set: {
+       vencedor: "1"
+    }
+});
+```
 
 ---
 
 * Em qual edição do Oscar "Crash" concorreu ao Oscar?
+  R: Edição: 78
+
+Code:
+```js
+db.oscar.find({
+nome_do_filme: "Crash"
+})
+```
+  
 
 ---
 
 * O filme Central do Brasil aparece no Oscar?
+  R: Não
+
+Code: 
+```js
+db.oscar.find({
+nome_do_filme: "Central do Brasil"
+})
+```
+  
 
 ---
 
@@ -165,14 +214,42 @@ ano_cerimonia: 1
 ---
 
 * Denzel Washington já ganhou algum Oscar?
+  R: Sim, 2 Oscars
+
+Code:
+```js
+db.oscar.countDocuments({
+nome_do_indicado: "Denzel Washington",
+vencedor: "1"
+})
+```
 
 ---
 
 * Quais os filmes que ganharam o Oscar de Melhor Filme?
+  R: Going My Way, The Lost Weekend, The Best Years of Our Lives, Gentleman's Agreement, Hamlet, All the King's Men, All about Eve, An American in Paris, The Greatest Show on Earth, From Here to Eternity, On the Waterfront, Marty, Around the World in 80 Days, The Bridge on the River Kwai, Gigi, Ben-Hur, The Apartment, West Side Story.
+
+Code:
+```js
+db.oscar.find({
+categoria: "BEST MOTION PICTURE",
+vencedor: "1"
+})
+```
+
 
 ---
 
 * Sidney Poitier foi o primeiro ator negro a ser indicado ao Oscar. Em que ano ele foi indicado? Por qual filme?
+  R: 1959 com o filme "The Defiant Ones" e 1964 com o filme "Lilies Of The Field"
+
+Code:
+```js
+db.oscar.find({
+nome_do_indicado: "Sidney Poitier"
+})
+```
+  
 
 ---
 
