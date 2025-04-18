@@ -1,0 +1,1202 @@
+[
+  {
+    "id_registro": 10890,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "BEST_PICTURE",
+    "nome_do_indicado": "Christopher Nolan, Emma Thomas, Charles Roven",
+    "nome_do_filme": "Oppenheimer",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10891,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "BEST_PICTURE",
+    "nome_do_indicado": "Margot Robbie, Tom Ackerley, David Heyman",
+    "nome_do_filme": "Barbie",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10892,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "BEST_PICTURE",
+    "nome_do_indicado": "Martin Scorsese, Daniel Lupi",
+    "nome_do_filme": "Killers of the Flower Moon",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10893,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "BEST_PICTURE",
+    "nome_do_indicado": "Yorgos Lanthimos, Emma Stone, Ed Guiney",
+    "nome_do_filme": "Poor Things",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10894,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "BEST_PICTURE",
+    "nome_do_indicado": "Celine Song, Christine Vachon, Pamela Koffler",
+    "nome_do_filme": "Past Lives",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10895,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "BEST_PICTURE",
+    "nome_do_indicado": "Mark Johnson, Dede Gardner",
+    "nome_do_filme": "The Holdovers",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10896,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "BEST_PICTURE",
+    "nome_do_indicado": "Amy Pascal, Matt Tolmach",
+    "nome_do_filme": "Spider-Man: Across the Spider-Verse",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10897,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "BEST_PICTURE",
+    "nome_do_indicado": "Jonathan Wang, Daniel Scheinert, Daniel Kwan",
+    "nome_do_filme": "Everything Everywhere All at Once",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10898,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "BEST_PICTURE",
+    "nome_do_indicado": "Steven Spielberg, Kristie Macosko Krieger",
+    "nome_do_filme": "The Fabelmans",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10899,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "BEST_PICTURE",
+    "nome_do_indicado": "Todd Field, Alexandra Milchan",
+    "nome_do_filme": "Tár",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10900,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DIRECTING",
+    "nome_do_indicado": "Christopher Nolan",
+    "nome_do_filme": "Oppenheimer",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10901,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DIRECTING",
+    "nome_do_indicado": "Yorgos Lanthimos",
+    "nome_do_filme": "Poor Things",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10902,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DIRECTING",
+    "nome_do_indicado": "Martin Scorsese",
+    "nome_do_filme": "Killers of the Flower Moon",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10903,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DIRECTING",
+    "nome_do_indicado": "Greta Gerwig",
+    "nome_do_filme": "Barbie",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10904,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DIRECTING",
+    "nome_do_indicado": "Jonathan Glazer",
+    "nome_do_filme": "The Zone of Interest",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10905,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ACTOR",
+    "nome_do_indicado": "Cillian Murphy",
+    "nome_do_filme": "Oppenheimer",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10906,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ACTOR",
+    "nome_do_indicado": "Paul Giamatti",
+    "nome_do_filme": "The Holdovers",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10907,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ACTOR",
+    "nome_do_indicado": "Bradley Cooper",
+    "nome_do_filme": "Maestro",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10908,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ACTOR",
+    "nome_do_indicado": "Colman Domingo",
+    "nome_do_filme": "Rustin",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10909,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ACTOR",
+    "nome_do_indicado": "Jeffrey Wright",
+    "nome_do_filme": "American Fiction",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10910,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ACTOR IN A LEADING ROLE",
+    "nome_do_indicado": "Emma Stone",
+    "nome_do_filme": "Poor Things",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10911,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ACTOR IN A LEADING ROLE",
+    "nome_do_indicado": "Lily Gladstone",
+    "nome_do_filme": "Killers of the Flower Moon",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10912,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ACTOR IN A LEADING ROLE",
+    "nome_do_indicado": "Carey Mulligan",
+    "nome_do_filme": "Maestro",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10913,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ACTOR IN A LEADING ROLE",
+    "nome_do_indicado": "Margot Robbie",
+    "nome_do_filme": "Barbie",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10914,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ACTOR IN A LEADING ROLE",
+    "nome_do_indicado": "Annette Bening",
+    "nome_do_filme": "Nyad",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10915,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SUPPORTING_ACTOR",
+    "nome_do_indicado": "Robert Downey Jr.",
+    "nome_do_filme": "Oppenheimer",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10916,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SUPPORTING_ACTOR",
+    "nome_do_indicado": "Ryan Gosling",
+    "nome_do_filme": "Barbie",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10917,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SUPPORTING_ACTOR",
+    "nome_do_indicado": "Mark Ruffalo",
+    "nome_do_filme": "Poor Things",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10918,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SUPPORTING_ACTOR",
+    "nome_do_indicado": "Robert De Niro",
+    "nome_do_filme": "Killers of the Flower Moon",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10919,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SUPPORTING_ACTOR",
+    "nome_do_indicado": "Sterling K. Brown",
+    "nome_do_filme": "American Fiction",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10920,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SUPPORTING_ACTRESS",
+    "nome_do_indicado": "Da'Vine Joy Randolph",
+    "nome_do_filme": "The Holdovers",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10921,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SUPPORTING_ACTRESS",
+    "nome_do_indicado": "Emily Blunt",
+    "nome_do_filme": "Oppenheimer",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10922,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SUPPORTING_ACTRESS",
+    "nome_do_indicado": "America Ferrera",
+    "nome_do_fil me": "Barbie",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10923,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SUPPORTING_ACTRESS",
+    "nome_do_indicado": "Jodie Foster",
+    "nome_do_filme": "Nyad",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10924,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SUPPORTING_ACTRESS",
+    "nome_do_indicado": "Danielle Brooks",
+    "nome_do_filme": "The Color Purple",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10925,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SCREENPLAY",
+    "nome_do_indicado": "Justine Triet, Arthur Harari",
+    "nome_do_filme": "Anatomy of a Fall",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10926,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SCREENPLAY",
+    "nome_do_indicado": "David Hemingson",
+    "nome_do_filme": "The Holdovers",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10927,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SCREENPLAY",
+    "nome_do_indicado": "Samy Burch",
+    "nome_do_filme": "May December",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10928,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SCREENPLAY",
+    "nome_do_indicado": "Celine Song",
+    "nome_do_filme": "Past Lives",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10929,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SCREENPLAY",
+    "nome_do_indicado": "Bradley Cooper, Josh Singer",
+    "nome_do_filme": "Maestro",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10930,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ADAPTED_SCREENPLAY",
+    "nome_do_indicado": "Cord Jefferson",
+    "nome_do_filme": "American Fiction",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10931,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ADAPTED_SCREENPLAY",
+    "nome_do_indicado": "Greta Gerwig, Noah Baumbach",
+    "nome_do_filme": "Barbie",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10932,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ADAPTED_SCREENPLAY",
+    "nome_do_indicado": "Christopher Nolan",
+    "nome_do_filme": "Oppenheimer",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10933,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ADAPTED_SCREENPLAY",
+    "nome_do_indicado": "Tony McNamara",
+    "nome_do_filme": "Poor Things",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10934,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ADAPTED_SCREENPLAY",
+    "nome_do_indicado": "Eric Roth, Martin Scorsese",
+    "nome_do_filme": "Killers of the Flower Moon",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10935,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "INTERNATIONAL_FEATURE_FILM",
+    "nome_do_indicado": "Jonathan Glazer",
+    "nome_do_filme": "The Zone of Interest (Reino Unido)",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10936,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "INTERNATIONAL_FEATURE_FILM",
+    "nome_do_indicado": "Justine Triet",
+    "nome_do_filme": "Anatomy of a Fall (França)",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10937,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "INTERNATIONAL_FEATURE_FILM",
+    "nome_do_indicado": "Aki Kaurismäki",
+    "nome_do_filme": "Fallen Leaves (Finlândia)",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10938,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "INTERNATIONAL_FEATURE_FILM",
+    "nome_do_indicado": "Wim Wenders",
+    "nome_do_filme": "Perfect Days (Japão)",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10939,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "INTERNATIONAL_FEATURE_FILM",
+    "nome_do_indicado": "Matías Piñeiro",
+    "nome_do_filme": "El Eco (México)",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10940,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ANIMATED_FEATURE_FILM",
+    "nome_do_indicado": "Hayao Miyazaki, Toshio Suzuki",
+    "nome_do_filme": "The Boy and the Heron",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10941,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ANIMATED_FEATURE_FILM",
+    "nome_do_indicado": "Joaquim Dos Santos, Kemp Powers, Justin K. Thompson",
+    "nome_do_filme": "Spider-Man: Across the Spider-Verse",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10942,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ANIMATED_FEATURE_FILM",
+    "nome_do_indicado": "Peter Sohn, Denise Ream",
+    "nome_do_filme": "Elemental",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10943,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ANIMATED_FEATURE_FILM",
+    "nome_do_indicado": "Nick Bruno, Troy Quane",
+    "nome_do_filme": "Nimona",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10944,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao _oscar": 97,
+    "categoria": "ANIMATED_FEATURE_FILM",
+    "nome_do_indicado": "Pablo Berger, Ibon Cormenzana",
+    "nome_do_filme": "Robot Dreams",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10945,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DOCUMENTARY_FEATURE",
+    "nome_do_indicado": "Mstyslav Chernov",
+    "nome_do_filme": "20 Days in Mariupol",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10946,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DOCUMENTARY_FEATURE",
+    "nome_do_indicado": "Maite Alberdi",
+    "nome_do_filme": "The Eternal Memory",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10947,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DOCUMENTARY_FEATURE",
+    "nome_do_indicado": "Davis Guggenheim",
+    "nome_do_filme": "Still: A Michael J. Fox Movie",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10948,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DOCUMENTARY_FEATURE",
+    "nome_do_indicado": "Kaouther Ben Hania",
+    "nome_do_filme": "Four Daughters",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10949,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DOCUMENTARY_FEATURE",
+    "nome_do_indicado": "Nisha Pahuja",
+    "nome_do_filme": "To Kill a Tiger",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10950,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "CINEMATOGRAPHY",
+    "nome_do_indicado": "Hoyte van Hoytema",
+    "nome_do_filme": "Oppenheimer",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10951,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "CINEMATOGRAPHY",
+    "nome_do_indicado": "Rodrigo Prieto",
+    "nome_do_filme": "Killers of the Flower Moon",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10952,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "CINEMATOGRAPHY",
+    "nome_do_indicado": "Matthew Libatique",
+    "nome_do_filme": "Maestro",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10953,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "CINEMATOGRAPHY",
+    "nome_do_indicado": "Robbie Ryan",
+    "nome_do_filme": "Poor Things",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10954,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "CINEMATOGRAPHY",
+    "nome_do_indicado": "Lukasz Zal",
+    "nome_do_filme": "The Zone of Interest",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10955,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "FILM_EDITING",
+    "nome_do_indicado": "Jennifer Lame",
+    "nome_do_filme": "Oppenheimer",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10956,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "FILM_EDITING",
+    "nome_do_indicado": "Thelma Schoonmaker",
+    "nome_do_filme": "Killers of the Flower Moon",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10957,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "FILM_EDITING",
+    "nome_do_indicado": "Yorgos Mavropsaridis",
+    "nome_do_filme": "Poor Things",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10958,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "FILM_EDITING",
+    "nome_do_indicado": "Kevin Tent",
+    "nome_do_filme": "The Holdovers",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10959,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "FILM_EDITING",
+    "nome_do_indicado": "Michelle Tesoro",
+    "nome_do_filme": "Maestro",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10960,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "PRODUCTION_DESIGN",
+    "nome_do_indicado": "Sarah Greenwood, Katie Spencer",
+    "nome_do_filme": "Barbie",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10961,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "PRODUCTION_DESIGN",
+    "nome_do_indicado": "Ruth De Jong, Claire Kaufman",
+    "nome_do_filme": "Oppenheimer",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10962,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "PRODUCTION_DESIGN",
+    "nome_do_indicado": "Jack Fisk, Adam Willis",
+    "nome_do_filme": "Killers of the Flower Moon",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10963,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "PRODUCTION_DESIGN",
+    "nome_do_indicado": "James Price, Shona Heath",
+    "nome_do_filme": "Poor Things",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10964,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "PRODUCTION_DESIGN",
+    "nome_do_indicado": "Adam Stockhausen, Kris Moran",
+    "nome_do_filme": "Asteroid City",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10965,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "COSTUME_DESIGN",
+    "nome_do_indicado": "Jacqueline Durran",
+    "nome_do_filme": "Barbie",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10966,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar ": 97,
+    "categoria": "COSTUME_DESIGN",
+    "nome_do_indicado": "Ellen Mirojnick",
+    "nome_do_filme": "Oppenheimer",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10967,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "COSTUME_DESIGN",
+    "nome_do_indicado": "Jacqueline West",
+    "nome_do_filme": "Killers of the Flower Moon",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10968,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "COSTUME_DESIGN",
+    "nome_do_indicado": "Holly Waddington",
+    "nome_do_filme": "Poor Things",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10969,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "COSTUME_DESIGN",
+    "nome_do_indicado": "Milena Canonero",
+    "nome_do_filme": "Asteroid City",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10970,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "MAKEUP_AND_HAIRSTYLING",
+    "nome_do_indicado": "Nadia Stacey, Mark Coulier",
+    "nome_do_filme": "Poor Things",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10971,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "MAKEUP_AND_HAIRSTYLING",
+    "nome_do_indicado": "Kay Georgiou, Sian Grigg",
+    "nome_do_filme": "Maestro",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10972,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "MAKEUP_AND_HAIRSTYLING",
+    "nome_do_indicado": "Ana López-Puigcerve, Belén López-Puigcerve",
+    "nome_do_filme": "Society of the Snow",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10973,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "MAKEUP_AND_HAIRSTYLING",
+    "nome_do_indicado": "Karen Hartley Thomas",
+    "nome_do_filme": "Golda",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10974,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "MAKEUP_AND_HAIRSTYLING",
+    "nome_do_indicado": "Luisa Abel",
+    "nome_do_filme": "Oppenheimer",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10975,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SCORE",
+    "nome_do_indicado": "Ludwig Göransson",
+    "nome_do_filme": "Oppenheimer",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10976,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SCORE",
+    "nome_do_indicado": "Robbie Robertson",
+    "nome_do_filme": "Killers of the Flower Moon",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10977,
+    "ano_filmagem":  2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SCORE",
+    "nome_do_indicado": "Jerskin Fendrix",
+    "nome_do_filme": "Poor Things",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10978,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SCORE",
+    "nome_do_indicado": "John Williams",
+    "nome_do_filme": "Indiana Jones and the Dial of Destiny",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10979,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SCORE",
+    "nome_do_indicado": "Mica Levi",
+    "nome_do_filme": "The Zone of Interest",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10980,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SONG",
+    "nome_do_indicado": "Billie Eilish, Finneas O'Connell",
+    "nome_do_filme": "What Was I Made For? (Barbie)",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10981,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SONG",
+    "nome_do_indicado": "Mark Ronson, Andrew Wyatt",
+    "nome_do_filme": "I'm Just Ken (Barbie)",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10982,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SONG",
+    "nome_do_indicado": "Jon Batiste, Dan Wilson",
+    "nome_do_filme": "It Never Went Away (American Symphony)",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10983,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SONG",
+    "nome_do_indicado": "Diane Warren",
+    "nome_do_filme": "The Fire Inside (Flamin' Hot)",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10984,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "ORIGINAL_SONG",
+    "nome_do_indicado": "Lenny Kravitz",
+    "nome_do_filme": "Road to Freedom (Rustin)",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10985,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SOUND",
+    "nome_do_indicado": "Tarn Willers, Johnnie Burn",
+    "nome_do_filme": "The Zone of Interest",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10986,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SOUND",
+    "nome_do_indicado": "Willie Burton, Richard King",
+    "nome_do_filme": "Oppenheimer",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10987,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SOUND",
+    "nome_do_indicado": "Steven A. Morrow, Richard Bullock",
+    "nome_do_filme": "Maestro",
+    "vencedor": "false"
+  },
+  {
+    "id_reg istro": 10988,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SOUND",
+    "nome_do_indicado": "Tony Lamberti, Dean Zupancic",
+    "nome_do_filme": "The Creator",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10989,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SOUND",
+    "nome_do_indicado": "Ai-Ling Lee, Dan Kenyon",
+    "nome_do_filme": "Barbie",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10990,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "VISUAL_EFFECTS",
+    "nome_do_indicado": "Takashi Yamazaki, Kiyoko Shibuya",
+    "nome_do_filme": "Godzilla Minus One",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10991,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "VISUAL_EFFECTS",
+    "nome_do_indicado": "Alex Wuttke, Simone Coco",
+    "nome_do_filme": "The Creator",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10992,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "VISUAL_EFFECTS",
+    "nome_do_indicado": "Stephane Ceretti, Alexis Wajsbrot",
+    "nome_do_filme": "Guardians of the Galaxy Vol. 3",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10993,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "VISUAL_EFFECTS",
+    "nome_do_indicado": "Andrew Jackson, Giacomo Mineo",
+    "nome_do_filme": "Mission: Impossible - Dead Reckoning Part One",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10994,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "VISUAL_EFFECTS",
+    "nome_do_indicado": "Jay Cooper, Ian Comley",
+    "nome_do_filme": "Napoleon",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10995,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SHORT_FILM_LIVE_ACTION",
+    "nome_do_indicado": "Misan Harriman, Nicky Bentham",
+    "nome_do_filme": "The After",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 10996,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SHORT_FILM_LIVE_ACTION",
+    "nome_do_indicado": "Vincent René-Lortie, Samuel Caron",
+    "nome_do_filme": "Invincible",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10997,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SHORT_FILM_LIVE_ACTION",
+    "nome_do_indicado": "Lasse Lyskjær Noer",
+    "nome_do_filme": "Knight of Fortune",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10998,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SHORT_FILM_LIVE_ACTION",
+    "nome_do_indicado": "Nazrin Choudhury, Sara McFarlane",
+    "nome_do_filme": "Red, White and Blue",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 10999,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SHORT_FILM_LIVE_ACTION",
+    "nome_do_indicado": "Wes Anderson, Steven Rales",
+    "nome_do_filme": "The Wonderful Story of Henry Sugar",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 11000,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SHORT_FILM_ANIMATED",
+    "nome_do_indicado": "Dave Mullins, Dana Murray",
+    "nome_do_filme": "War Is Over!",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 11001,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SHORT_FILM_ANIMATED",
+    "nome_do_indicado": "Joel Crawford, Mark Swift",
+    "nome_do_filme": "Ninety-Five Senses",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 11002,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SHORT_FILM_ANIMATED",
+    "nome_do_indicado": "Jared Hess, Jerusha Hess",
+    "nome_do_filme": "Our Uniform",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 11003,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SHORT_FILM_ANIMATED",
+    "nome_do_indicado": "Tal Kantor, Amit R. Gicelter",
+    "nome_do_filme": "Letter to a Pig",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 11004,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "SHORT_FILM_ANIMATED",
+    "nome_do_indicado": "Yegane Moghaddam",
+    "nome_do_filme": "Pachyderme",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 11005,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DOCUMENTARY_SHORT_FILM",
+    "nome_do_indicado": "Ben Proudfoot",
+    "nome_do_filme": "The Last Repair Shop",
+    "vencedor": "true"
+  },
+  {
+    "id_registro": 11006,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DOCUMENTARY_SHORT_FILM",
+    "nome_do_indicado": "Andrea Nix Fine, Sean Fine",
+    "nome_do_filme": "The ABCs of Book Banning",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 11007,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DOCUMENTARY_SHORT_FILM",
+    "nome_do_indicado": "Sara Dosa, Shane Boris",
+    "nome_do_filme": "Island in Between",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 11008,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DOCUMENTARY_SHORT_FILM",
+    "nome_do_indicado": "John Hoffman, Christine Turner",
+    "nome_do_filme": "The Barber of Little Rock",
+    "vencedor": "false"
+  },
+  {
+    "id_registro": 11009,
+    "ano_filmagem": 2024,
+    "ano_cerimonia": 2025,
+    "edicao_oscar": 97,
+    "categoria": "DOCUMENTARY_SHORT_FILM",
+    "nome_do_indicado": "Kahane Cooperman, Raphaela Neihausen",
+    "nome_do_filme": "Nǎi Nai & Wài Pó",
+    "vencedor": "false"
+  }
+]
