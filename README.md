@@ -291,7 +291,36 @@ nome_do_indicado: "Sidney Poitier"
 ---
 
 * Quais os filmes que ganharam o Oscar de Melhor Filme e Melhor Diretor na mesma cerimonia?
+  R: Gentleman's Agreement, Marty, The Lost Weekend, The Bridge on the River Kwai, The Apartment, From Here to Eternity, All about Eve, The Best Years of Our Lives, West Side Story, Ben-Hur, On the Waterfront, Gigi, Going My Way
 
+Code:
+```js
+db.oscar.aggregate([
+    { 
+        $match: { 
+            categoria: { $in: ["BEST MOTION PICTURE", "DIRECTING"] }, 
+            vencedor: 1 
+        } 
+    },
+    { 
+        $group: { 
+            _id: { cerimonia: "$cerimonia", filme: "$nome_do_filme" }, 
+            categorias: { $addToSet: "$categoria" } 
+        } 
+    },
+    { 
+        $match: { 
+            categorias: { $all: ["BEST MOTION PICTURE", "DIRECTING"] } 
+        } 
+    },
+    { 
+        $project: { 
+            cerimonia: "$_id.cerimonia", 
+            filme: "$_id.filme" 
+        } 
+    }
+]);
+```
 ---
 
 * Denzel Washington e Jamie Foxx já concorreram ao Oscar no mesmo ano?
