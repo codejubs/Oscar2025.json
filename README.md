@@ -209,7 +209,43 @@ nome_do_filme: "Central do Brasil"
 
 ---
 
-* Inclua no banco 3 filmes que nunca foram nem nomeados ao Oscar, mas que merecem ser. 
+* Inclua no banco 3 filmes que nunca foram nem nomeados ao Oscar, mas que merecem ser.
+Code:
+```js
+db.oscar.insertMany([
+    {
+        "id_registro": 11010,
+        "ano_filmagem": 2004,
+        "ano_cerimonia": null,
+        "cerimonia": null,
+        "categoria": "BEST MOTION PICTURE",
+        "nome_do_indicado": "Keenen Ivory Wayans",
+        "nome_do_filme": "White Chicks",
+        "vencedor": 1
+    },
+    {
+        "id_registro": 11012,
+        "ano_filmagem": 2015,
+        "ano_cerimonia": null,
+        "cerimonia": null,
+        "categoria": "BEST MOTION PICTURE",
+        "nome_do_indicado": "M. Night Shyamalan",
+        "nome_do_filme": "Split",
+        "vencedor": 1
+    },
+    {
+        "id_registro": 11011,
+        "ano_filmagem": 2007,
+        "ano_cerimonia": null,
+        "cerimonia": null,
+        "categoria": "BEST MOTION PICTURE",
+        "nome_do_indicado": "Catherine Hardwicke",
+        "nome_do_filme": "Twilight",
+        "vencedor": 1
+    }
+]);
+```
+
 
 ---
 
