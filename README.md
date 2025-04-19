@@ -258,3 +258,11 @@ nome_do_indicado: "Sidney Poitier"
 ---
 
 * Denzel Washington e Jamie Foxx já concorreram ao Oscar no mesmo ano?
+  R: Não. Denzel concorreu nos anos: 1988, 1990, 1993, 2000, 2002, 2013, 2017, 2018, 2022. Já Jamie concorreu apenas no ano de 2005.
+
+
+Code: 
+```js
+db.oscar.find({ nome_do_indicado: "Denzel Washington" })
+db.oscar.find({ nome_do_indicado: "Jamie Foxx" })
+```
